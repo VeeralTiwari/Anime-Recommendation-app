@@ -40,14 +40,14 @@ To run this project on your local machine, ensure you have the following install
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/your-username/anime-recommendation-app.git
-    cd anime-recommendation-app
+    https://github.com/VeeralTiwari/Anime-Recommendation-app.git
+    cd Anime-Recommendation-app
     ```
 
 2. **Install backend dependencies:**
 
     ```bash
-    npm install
+    npm install express mysql 
     ```
 
 3. **Set up MySQL database:**
@@ -84,10 +84,6 @@ To run this project on your local machine, ensure you have the following install
 ## Contributing
 
 Contributions are welcome! Please create an issue or submit a pull request.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgements
 
