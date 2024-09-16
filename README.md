@@ -1,6 +1,6 @@
 # Anime Recommendation App
 
-This repository contains an Anime Recommendation App built with HTML, CSS, JavaScript for the frontend, and Node.js, Express, MySQL for the backend. The app utilizes the Jikan API to fetch anime data and a Python script to extract unique anime IDs from various websites.
+This repository contains an Anime Recommendation App built with HTML, CSS, JavaScript for the frontend, and Node.js, Express, MySQL for the backend. The app utilizes the Jikan API to fetch anime data and a Python script to extract unique anime IDs from MyAnimeList website.
 
 ## Snapshots
 ![Screenshot 2024-09-16 232219](https://github.com/user-attachments/assets/09713d41-4b48-42b2-b40c-0d92dbacc6df)
